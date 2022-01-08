@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.pufler.dev/visits/shabayekdes/shabayekdes)](https://shabayekdes.netlify.app/)
 [![Github Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshabayekdes)](https://github.com/shabayekdes)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshabayekdes&color=red)](https://github.com/shabayekdes?tab=repositories)
-[![Plublic Gist](https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshabayekdes&color=yellow)](https://gist.github.com/shabayekdes)
+[![Plublic Gist](https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshabayekdes&color=yellow)](https://gist.github.com/shabayekdes) ![GitHub Org's stars](https://img.shields.io/github/stars/shabayekdes?style=flat-square)
 
 ### Hi there 👋
 I’m Esmail Shabayek a senior Back-end engineer, Motivated and highly productive Backend Developer professional with a research background. Detail-oriented with strong skills in multi-tasking and efficient management of day-to-day office operations. Adept at building and maintaining effective working relationships with co-workers and clients through outstanding interpersonal skills.
